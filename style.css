@@ -12,5 +12,7 @@ ul{
 ol{
     color: white;
     background-color: brown;
+    font-size: bolder;
+    text-decoration: solid;
 }
 
